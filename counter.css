@@ -1,0 +1,32 @@
+* {
+  margin: 50px;
+}
+
+h2 {
+  font-size: 50px;
+  color: green;
+  text-align: center;
+  position: relative;
+}
+
+#increment {
+  margin-left: 520px;
+  align-items: center;
+  border-radius: 5px;
+  border: none;
+  background-color: #353a8a;
+  color: #ffffff;
+  height: 50px;
+  width: 50px;
+  font-size: 18px;
+}
+
+#decrement {
+  border: none;
+  border-radius: 5px;
+  background-color: #b63c44;
+  color: #ffffff;
+  height: 50px;
+  width: 50px;
+  font-size: 18px;
+}
