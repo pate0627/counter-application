@@ -3,11 +3,11 @@ $(document).ready(function () {
 
   $("#increment").click(function () {
     counter++;
-    $("#count").html(counter);
+    $(".count").html(counter);
   });
 
   $("#decrement").click(function () {
     counter--;
-    $("#count").html(counter);
+    $(".count").html(counter);
   });
 });
